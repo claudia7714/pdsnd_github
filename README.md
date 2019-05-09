@@ -13,13 +13,16 @@ All the data files contained information on: start times, end times, trip durati
     * most common month
     * most common day of week
     * most common hour of day
+
 2. Popular stations and trip
     * most common start station
     * most common end station
     * most common combination of start and end station
+    
 3. Trip duration 
     * total travel time
     * average travel time
+    
 4. User information
     * counts of each user type
     * counts of each gender (NYC and Chicago only)
