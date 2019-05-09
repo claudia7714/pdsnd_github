@@ -33,3 +33,5 @@ All the data files contained information on: start times, end times, trip durati
 * washington.csv
 
 
+### Acknowledgements
+This project is part of the Udacity Data Science Nanodegree Program. Guidelines for creating this project were provided by Udacity.
