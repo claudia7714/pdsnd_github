@@ -1,15 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+May 9, 2019
 
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
+### Explore US Bikeshare Data
+This project uses Python to examine bikeshare data for three cities: Chicago, New York City, and Washington. This project takes in user input to interactively provide the requested statistics. 
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* bikeshare.py
+* chicago.csv
+* new_york_city.csv
+* washington.csv
